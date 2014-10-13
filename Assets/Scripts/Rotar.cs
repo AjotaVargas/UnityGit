@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class Rotar : MonoBehaviour {
@@ -6,6 +6,6 @@ public class Rotar : MonoBehaviour {
 	public Vector3 rot;
 	
 	void Update () {
-		transform.Rotate ( rot );
+		transform.Rotate ( rot ); //rama1
 	}
 }
