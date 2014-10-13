@@ -1,2 +1,6 @@
-/*
-!/Assets/Scripts/*
+/Temp
+/obj
+/library
+*.csproj
+*.unityproj
+*.sln
